@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thuchanhb7", "Thuchanhb7\Thuchanhb7.csproj", "{1753971E-CAD7-4951-9276-18AC5C8C9304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi8", "Buoi8\Buoi8.csproj", "{19D77109-85C9-4A9C-94B2-5DEEC372D451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1753971E-CAD7-4951-9276-18AC5C8C9304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1753971E-CAD7-4951-9276-18AC5C8C9304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1753971E-CAD7-4951-9276-18AC5C8C9304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1753971E-CAD7-4951-9276-18AC5C8C9304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D77109-85C9-4A9C-94B2-5DEEC372D451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D77109-85C9-4A9C-94B2-5DEEC372D451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D77109-85C9-4A9C-94B2-5DEEC372D451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D77109-85C9-4A9C-94B2-5DEEC372D451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F311B524-8972-4D63-94A8-D66234DDD09F}
+	EndGlobalSection
+EndGlobal

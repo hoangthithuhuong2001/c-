@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\bin\Debug\Buoi8.exe.config
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\bin\Debug\Buoi8.exe
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\bin\Debug\Buoi8.pdb
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.Form1.resources
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.Properties.Resources.resources
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.csproj.GenerateResource.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.exe
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Buoi8\obj\Debug\Buoi8.pdb

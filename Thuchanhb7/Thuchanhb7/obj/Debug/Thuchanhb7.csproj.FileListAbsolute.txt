@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\bin\Debug\Thuchanhb7.exe.config
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\bin\Debug\Thuchanhb7.exe
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\bin\Debug\Thuchanhb7.pdb
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.Form1.resources
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.Properties.Resources.resources
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.csproj.GenerateResource.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.exe
+C:\Users\Administrator\source\BT_visual_Studio\Thuchanhb7\Thuchanhb7\obj\Debug\Thuchanhb7.pdb
